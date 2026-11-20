@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="A monochrome starfield over a crossroads" />
+<img src="assets/banner.svg" width="100%" alt="A monochrome spiral galaxy turning slowly over a star field, with a small companion galaxy and meteors crossing the dark" />
 
 </div>
 
