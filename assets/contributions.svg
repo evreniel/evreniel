@@ -31,7 +31,7 @@
   </defs>
 
   <rect x="0.5" y="0.5" width="1199" height="239" rx="18" fill="#0A0A0A" stroke="#232323"/>
-  <g transform="translate(600 120) scale(1.1) translate(-600 -120)">
+  <g transform="translate(600 120) scale(1.060606 1.176471) translate(-600 -120)">
   <ellipse cx="600" cy="120" rx="540" ry="104" fill="url(#ambient)"/>
 
   <rect x="72" y="52" width="16" height="16" rx="3" fill="#2C2C2C"><animate attributeName="opacity" values="1;1;0.10;0.10;1;1" keyTimes="0;0.8782;0.8842;0.9520;0.9740;1" dur="26s" repeatCount="indefinite"/></rect>
