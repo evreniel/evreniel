@@ -28,12 +28,16 @@
       <stop offset="30%" stop-color="#ffffff" stop-opacity="0.55"/>
       <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
     </linearGradient>
+    <clipPath id="frame">
+      <rect x="0.5" y="0.5" width="1199" height="239" rx="18"/>
+    </clipPath>
     <filter id="grain" x="-10%" y="-10%" width="120%" height="120%">
       <feGaussianBlur stdDeviation="0.75"/>
     </filter>
   </defs>
 
-  <rect width="1200" height="240" fill="url(#sky)"/>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="240" fill="url(#sky)"/>
 
   <g fill="#ffffff">
     <circle cx="937.7" cy="35.7" r="1.1" opacity="0.26">
@@ -524,4 +528,6 @@
     <line x1="325.1" y1="14.4" x2="360" y2="34" stroke="url(#meteor)" stroke-width="1.3" stroke-linecap="round"/>
     <circle cx="360" cy="34" r="1.5" fill="#ffffff" opacity="0.9"/>
   </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="239" rx="18" fill="none" stroke="#232323"/>
 </svg>
