@@ -58,5 +58,13 @@
 ---
 
 <div align="center">
+
+<img src="assets/contributions.svg" width="100%" alt="Animated contribution grid with a wandering snake" />
+
+</div>
+
+---
+
+<div align="center">
 <sub>Evren Delacroix - A universe at the crossroads.</sub>
 </div>
